@@ -5,7 +5,7 @@
 ![Banner Johan Lucumi](Software-Developer.png)
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Full%20Stack%20Developer;Always%20learning%20new%20things;Frontend%20Developer&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Full%20Stack%20Developer;Backend%20Developer;Frontend%20Developer&center=true&width=440&height=45"></a>
 </p>
 
 # 💫 About Me:
